@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b6aa400b-55a5-48d3-9649-7d8e38ce9458" name="Default Changelist" comment="add comments in Readme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +24,9 @@
     <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python&#10;Cython" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/README.md" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -35,9 +35,13 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.flask.configuration.FlaskConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/venv" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\project_go\install-docker" />
     </key>
@@ -54,6 +58,28 @@
       </list>
     </option>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6aa400b-55a5-48d3-9649-7d8e38ce9458" name="Default Changelist" comment="add comments in Readme" />
+      <created>1579517396519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579517396519</updated>
+      <workItem from="1579517397684" duration="8842000" />
+    </task>
+    <task id="LOCAL-00001" summary="add comments in Readme">
+      <created>1579529606660</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579529606660</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -62,7 +88,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -73,13 +101,19 @@
     <option name="LAST_COMMIT_MESSAGE" value="add comments in Readme" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="598" y="118" key="CommitChangelistDialog2" timestamp="1578154589037">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="644" y="146" width="860" height="807" key="CommitChangelistDialog2" timestamp="1579529606538">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="598" y="118" key="CommitChangelistDialog2/0.0.1920.1040/-1680.16.1680.1010/1920.0.1440.860/3360.0.1360.728@0.0.1920.1040" timestamp="1578154589037" />
-    <state x="463" y="165" key="SettingsEditor" timestamp="1578152560565">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="644" y="146" width="860" height="807" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1579529606538" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579517460917">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1579517460917" />
+    <state x="514" y="194" key="SettingsEditor" timestamp="1579526901141">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="463" y="165" key="SettingsEditor/0.0.1920.1040/-1680.16.1680.1010/1920.0.1440.860/3360.0.1360.728@0.0.1920.1040" timestamp="1578152560565" />
+    <state x="514" y="194" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1579526901141" />
   </component>
 </project>
